@@ -2,11 +2,8 @@
 #include <tgmath.h>
 
 int main() {
-    double a;
-    double b;
-    double c;
-    double x1;
-    double x2;
+    double a, b, c;
+    double x1, x2;
     double delta;
 
 
